@@ -110,5 +110,6 @@ public class ParkingSpotController {
         return ResponseEntity.status(HttpStatus.OK).body(parkingSpotService.save(parkingSpotModel));
 
         */
+
     }
 }
